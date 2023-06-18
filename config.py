@@ -51,7 +51,7 @@ SOURCE_CODE = os.environ.get(
 # image when someone hit /start
 WELCOME_IMAGE = os.environ.get("WELCOME_IMAGE", "")
 LINK_BYPASS = is_enabled(
-    (os.environ.get("LINK_BYPASS", "Fals")), False
+    (os.environ.get("LINK_BYPASS", "False")), False
 )  # if true, urls will be bypassed
 # your shortener site domain
 BASE_SITE = os.environ.get("BASE_SITE", "easysky.in")
