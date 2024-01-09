@@ -31,12 +31,12 @@ user_commands = [
     "me",
 ]
 avl_web = [
-    "tulinks.one",
-    "tulinks.one",
-    "tulinks.one",
-    "tulinks.one",
-    "tulinks.one",
-    "tulinks.one",
+    "tulinks.online",
+    "tulinks.online",
+    "tulinks.online",
+    "tulinks.online",
+    "tulinks.online",
+    "tulinks.online",
     "tulinks.one",
     "tulinks.one",
     "tulinks.one",
